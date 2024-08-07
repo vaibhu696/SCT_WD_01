@@ -3,7 +3,7 @@ Task 1: Create an interactive navigation menu that changes color or style when s
 # Website link : https://vaibhu696.github.io/SCT_WD_01/
 
 # Learnings from the Project:
-# Header:Header:
+# Header:
 Utilized display: flex to easily apply properties such as justify-content and position for better alignment and positioning.
 Employed flex in the navigation section to align items on a single line, particularly useful for block elements arranged vertically.
 Integrated transitions to facilitate smooth visual changes within the interface.
